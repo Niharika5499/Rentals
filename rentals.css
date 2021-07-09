@@ -199,7 +199,8 @@ header .navbar ul li a:hover{
 /*facilities section styling starts here*/
 
 .facility-container .first-container{
-    background-image: radial-gradient(white,white,white,grey);
+    background-image: radial-gradient(white,white,white,rgb(204, 201, 201));
+    align-content: center;
 }
 .facility-container .first-container h1{
     text-align: center;
@@ -218,6 +219,16 @@ header .navbar ul li a:hover{
     font-family: 'Playfair Display', serif;
     font-size: 2rem;
 
+}
+.facility-container .list-container{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2rem;
+}
+.facility-container .list-container .list-icons{
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
 }
 .facility-container .abovecontainer{
     display: flex;
