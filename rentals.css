@@ -159,9 +159,6 @@ header .navbar ul li a:hover{
 
 /*rent section styling starts */
 
-/* .rent{
-    background-image: radial-gradient(rgb(240, 240, 245),rgb(250, 240, 241));
-} */
 
 .rent .rent-content h1{
     text-align: center;
@@ -508,6 +505,16 @@ header .navbar ul li a:hover{
 }
 
 /* footer styling ends */
+
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    background-image: url("images/top.png");
+    /* padding: 10px 20px;
+    background-color: #555;
+    color: #fff; */
+}
+
 
 
 
