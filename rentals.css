@@ -509,10 +509,12 @@ header .navbar ul li a:hover{
 #scrollUp {
     bottom: 20px;
     right: 20px;
-    background-image: url("images/top.png");
-    /* padding: 10px 20px;
-    background-color: #555;
-    color: #fff; */
+    padding: 10px 20px;
+    background-image: radial-gradient(gray,black);
+    color: #fff;
+    border: 0.5px solid gray;
+    border-radius: 25px;
+    font-weight: bold;
 }
 
 
@@ -700,11 +702,17 @@ header .navbar ul li a:hover{
         cursor: pointer;
         margin-left: -2px;
     }
-
-
-
-
     /*about us ends*/
+    #scrollUp {
+        bottom: 0px;
+        right: 0px;
+        padding: 5px 5px;
+        background-image: radial-gradient(gray,black);
+        color: #fff;
+        border: 0.5px solid gray;
+        border-radius: 25px;
+        font-weight: bold;
+    }
     
 }
 
@@ -886,4 +894,14 @@ header .navbar ul li a:hover{
         margin-left: -2px;
     }
     /*about us ends*/
+    #scrollUp {
+        bottom: 0px;
+        right: 0px;
+        padding: 5px 5px;
+        background-image: radial-gradient(gray,black);
+        color: #fff;
+        border: 0.5px solid gray;
+        border-radius: 25px;
+        font-weight: bold;
+    }
 }
