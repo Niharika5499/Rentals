@@ -506,6 +506,8 @@ header .navbar ul li a:hover{
 
 /* footer styling ends */
 
+/*scroll to top button*/
+
 #scrollUp {
     bottom: 20px;
     right: 20px;
@@ -516,6 +518,7 @@ header .navbar ul li a:hover{
     border-radius: 25px;
     font-weight: bold;
 }
+/*scroll to top button ends*/
 
 
 
