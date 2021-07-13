@@ -189,7 +189,6 @@ header .navbar ul li a:hover{
     border-radius: 5px;
 }
 
-
 /*rent section styling starts */
 
 
@@ -707,8 +706,8 @@ header .navbar ul li a:hover{
     }
     /*about us ends*/
     #scrollUp {
-        bottom: 0px;
-        right: 0px;
+        bottom: 3px;
+        right: 3px;
         padding: 5px 5px;
         background-image: radial-gradient(gray,black);
         color: #fff;
@@ -898,8 +897,8 @@ header .navbar ul li a:hover{
     }
     /*about us ends*/
     #scrollUp {
-        bottom: 0px;
-        right: 0px;
+        bottom: 3px;
+        right: 3px;
         padding: 5px 5px;
         background-image: radial-gradient(gray,black);
         color: #fff;
