@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    //function for navigation menu
     $('#menu').click(function(){
         $(this).toggleClass('fa-times');
         $('.navbar').toggleClass('nav-toggle');
